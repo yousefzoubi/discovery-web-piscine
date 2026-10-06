@@ -1,0 +1,8 @@
+edit :any adding or removing or editing anything in  the directory is considered an edit , and we use echo or nano to edit files
+
+add : we put the modified file in the staging area, that means it's now ready to be saved
+
+commit : we save a snapshot (local copy) of our file in the local history, and it's not uploaded yet
+
+push : is the upload command that we use to upload or submit our work to the remote repository on GitHub
+

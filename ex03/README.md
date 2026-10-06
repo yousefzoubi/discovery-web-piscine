@@ -1,0 +1,2 @@
+version control safeguards code by deviding it into sup-codes, written by many team memebers ,  insted of saving whole code in a single device , with several files and folders , we save it in online cloud service called GitHub ,, with detailed information about each code like date ,time ,and who had write it and many aother information that makes it easier to track and edit it even there are thousands of code lines  , and it's easy to add any team member around the world   
+
