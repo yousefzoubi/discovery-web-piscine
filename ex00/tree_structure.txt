@@ -1,0 +1,40 @@
+dev_workspace:
+total 0
+drwxrwxrwx 1 y0y0 y0y0 512 Oct  4 10:26 .
+drwxrwxrwx 1 y0y0 y0y0 512 Oct  4 10:33 ..
+drwxrwxrwx 1 y0y0 y0y0 512 Oct  4 10:22 archives
+drwxrwxrwx 1 y0y0 y0y0 512 Oct  1 10:23 projects
+drwxrwxrwx 1 y0y0 y0y0 512 Oct  4 10:22 tools
+
+dev_workspace/archives:
+total 0
+drwxrwxrwx 1 y0y0 y0y0 512 Oct  4 10:22 .
+drwxrwxrwx 1 y0y0 y0y0 512 Oct  4 10:26 ..
+
+dev_workspace/projects:
+total 0
+drwxrwxrwx 1 y0y0 y0y0 512 Oct  1 10:23 .
+drwxrwxrwx 1 y0y0 y0y0 512 Oct  4 10:26 ..
+drwxrwxrwx 1 y0y0 y0y0 512 Oct  4 10:32 web
+
+dev_workspace/projects/web:
+total 0
+drwxrwxrwx 1 y0y0 y0y0 512 Oct  4 10:32 .
+drwxrwxrwx 1 y0y0 y0y0 512 Oct  1 10:23 ..
+drwxrwxrwx 1 y0y0 y0y0 512 Oct  1 10:33 backend
+drwxrwxrwx 1 y0y0 y0y0 512 Oct  1 10:23 frontend
+
+dev_workspace/projects/web/backend:
+total 0
+drwxrwxrwx 1 y0y0 y0y0 512 Oct  1 10:33 .
+drwxrwxrwx 1 y0y0 y0y0 512 Oct  4 10:32 ..
+
+dev_workspace/projects/web/frontend:
+total 0
+drwxrwxrwx 1 y0y0 y0y0 512 Oct  1 10:23 .
+drwxrwxrwx 1 y0y0 y0y0 512 Oct  4 10:32 ..
+
+dev_workspace/tools:
+total 0
+drwxrwxrwx 1 y0y0 y0y0 512 Oct  4 10:22 .
+drwxrwxrwx 1 y0y0 y0y0 512 Oct  4 10:26 ..
